@@ -1,14 +1,6 @@
 ![Tec de Monterrey](images/logotecmty.png)
 # Ejercicios del examen parcial
 
-## Configuración de pruebas con **pytest**
-
-`nota:` para todo las pruebas puedes usar esta configuración:
-### Comando para instalar Pytest
-```
-sudo -H pip3 install pytest
-```
-
 - ## Ejercicio1
     ### Run command
     ```
